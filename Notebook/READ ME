@@ -1,0 +1,33 @@
+Project Description
+
+- Notebook 
+- Password manager
+- Agenda
+
+Notebook:
+*- write new document
+*- update new document
+- add images?
+- add files to document ?
+- speech to text function ?
+- text to speech function ?
+
+Password manager:
+*- memorize new password
+- retrieve existing password by using application name
+
+Agenda:
+*- calendar
+*- add event to calendar 
+
+Notebook 
+GOALS:
+Allows user to create new document.
+Allows user to read existing document.
+Allows user to modify existing document.
+Allows user to delete existing document.
+Allows user to name new document.
+Allows user to rename existing document.
+Allows user to restrict access to document.
+Allows user to search by document name.
+Allows user to search by document content.
